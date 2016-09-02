@@ -1,3 +1,3 @@
 FROM r-base
 
-CMD ["Rscript", "-e '?ls'"]
+CMD ["Rscript", "-e", "'?ls'"]
